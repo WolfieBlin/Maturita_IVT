@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/n-taMocnina_mat11/n-taMocnina_mat11/bin/Debug/n_taMocnina_mat11.exe
+/home/kvothe/Dropbox/Projekty/Maturita/n-taMocnina_mat11/n-taMocnina_mat11/bin/Debug/n_taMocnina_mat11.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/n-taMocnina_mat11/n-taMocnina_mat11/obj/Debug/n-taMocnina_mat11.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/n-taMocnina_mat11/n-taMocnina_mat11/obj/Debug/n-taMocnina_mat11.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/n-taMocnina_mat11/n-taMocnina_mat11/obj/Debug/n_taMocnina_mat11.exe
+/home/kvothe/Dropbox/Projekty/Maturita/n-taMocnina_mat11/n-taMocnina_mat11/obj/Debug/n_taMocnina_mat11.pdb

@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/CifernySoucetCisla_mat12/CifernySoucetCisla_mat12/bin/Debug/CifernySoucetCisla_mat12.exe
+/home/kvothe/Dropbox/Projekty/Maturita/CifernySoucetCisla_mat12/CifernySoucetCisla_mat12/bin/Debug/CifernySoucetCisla_mat12.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/CifernySoucetCisla_mat12/CifernySoucetCisla_mat12/obj/Debug/CifernySoucetCisla_mat12.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/CifernySoucetCisla_mat12/CifernySoucetCisla_mat12/obj/Debug/CifernySoucetCisla_mat12.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/CifernySoucetCisla_mat12/CifernySoucetCisla_mat12/obj/Debug/CifernySoucetCisla_mat12.exe
+/home/kvothe/Dropbox/Projekty/Maturita/CifernySoucetCisla_mat12/CifernySoucetCisla_mat12/obj/Debug/CifernySoucetCisla_mat12.pdb

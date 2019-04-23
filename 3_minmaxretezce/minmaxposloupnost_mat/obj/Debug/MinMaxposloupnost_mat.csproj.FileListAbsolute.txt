@@ -1,0 +1,12 @@
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxposloupnost_mat/MinMaxposloupnost_mat/bin/Debug/MinMaxposloupnost_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxposloupnost_mat/MinMaxposloupnost_mat/bin/Debug/MinMaxposloupnost_mat.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxposloupnost_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxposloupnost_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxposloupnost_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxposloupnost_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxRetezce_mat/MinMaxposloupnost_mat/bin/Debug/MinMaxposloupnost_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxRetezce_mat/MinMaxposloupnost_mat/bin/Debug/MinMaxposloupnost_mat.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxRetezce_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxRetezce_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxRetezce_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxRetezce_mat/MinMaxposloupnost_mat/obj/Debug/MinMaxposloupnost_mat.pdb

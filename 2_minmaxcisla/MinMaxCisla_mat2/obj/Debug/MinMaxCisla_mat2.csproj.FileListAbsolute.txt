@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxCisla_mat2/MinMaxCisla_mat2/bin/Debug/MinMaxCisla_mat2.exe
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxCisla_mat2/MinMaxCisla_mat2/bin/Debug/MinMaxCisla_mat2.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxCisla_mat2/MinMaxCisla_mat2/obj/Debug/MinMaxCisla_mat2.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxCisla_mat2/MinMaxCisla_mat2/obj/Debug/MinMaxCisla_mat2.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxCisla_mat2/MinMaxCisla_mat2/obj/Debug/MinMaxCisla_mat2.exe
+/home/kvothe/Dropbox/Projekty/Maturita/MinMaxCisla_mat2/MinMaxCisla_mat2/obj/Debug/MinMaxCisla_mat2.pdb

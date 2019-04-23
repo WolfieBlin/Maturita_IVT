@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/DvaNejvetsi_mat4/DvaNejvetsi_mat4/bin/Debug/DvaNejvetsi_mat4.exe
+/home/kvothe/Dropbox/Projekty/Maturita/DvaNejvetsi_mat4/DvaNejvetsi_mat4/bin/Debug/DvaNejvetsi_mat4.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/DvaNejvetsi_mat4/DvaNejvetsi_mat4/obj/Debug/DvaNejvetsi_mat4.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/DvaNejvetsi_mat4/DvaNejvetsi_mat4/obj/Debug/DvaNejvetsi_mat4.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/DvaNejvetsi_mat4/DvaNejvetsi_mat4/obj/Debug/DvaNejvetsi_mat4.exe
+/home/kvothe/Dropbox/Projekty/Maturita/DvaNejvetsi_mat4/DvaNejvetsi_mat4/obj/Debug/DvaNejvetsi_mat4.pdb

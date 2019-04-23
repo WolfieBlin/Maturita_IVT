@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/faktorial_mat10/faktorial_mat10/bin/Debug/faktorial_mat10.exe
+/home/kvothe/Dropbox/Projekty/Maturita/faktorial_mat10/faktorial_mat10/bin/Debug/faktorial_mat10.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/faktorial_mat10/faktorial_mat10/obj/Debug/faktorial_mat10.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/faktorial_mat10/faktorial_mat10/obj/Debug/faktorial_mat10.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/faktorial_mat10/faktorial_mat10/obj/Debug/faktorial_mat10.exe
+/home/kvothe/Dropbox/Projekty/Maturita/faktorial_mat10/faktorial_mat10/obj/Debug/faktorial_mat10.pdb

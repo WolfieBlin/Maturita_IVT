@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/CisloPozpatku_mat13/CisloPozpatku_mat13/bin/Debug/CisloPozpatku_mat13.exe
+/home/kvothe/Dropbox/Projekty/Maturita/CisloPozpatku_mat13/CisloPozpatku_mat13/bin/Debug/CisloPozpatku_mat13.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/CisloPozpatku_mat13/CisloPozpatku_mat13/obj/Debug/CisloPozpatku_mat13.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/CisloPozpatku_mat13/CisloPozpatku_mat13/obj/Debug/CisloPozpatku_mat13.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/CisloPozpatku_mat13/CisloPozpatku_mat13/obj/Debug/CisloPozpatku_mat13.exe
+/home/kvothe/Dropbox/Projekty/Maturita/CisloPozpatku_mat13/CisloPozpatku_mat13/obj/Debug/CisloPozpatku_mat13.pdb

@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/bin/Debug/KraceniZlomku_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/bin/Debug/KraceniZlomku_mat.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.pdb

@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/CetnostA_mat5/CetnostA_mat5/bin/Debug/CetnostA_mat5.exe
+/home/kvothe/Dropbox/Projekty/Maturita/CetnostA_mat5/CetnostA_mat5/bin/Debug/CetnostA_mat5.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/CetnostA_mat5/CetnostA_mat5/obj/Debug/CetnostA_mat5.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/CetnostA_mat5/CetnostA_mat5/obj/Debug/CetnostA_mat5.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/CetnostA_mat5/CetnostA_mat5/obj/Debug/CetnostA_mat5.exe
+/home/kvothe/Dropbox/Projekty/Maturita/CetnostA_mat5/CetnostA_mat5/obj/Debug/CetnostA_mat5.pdb

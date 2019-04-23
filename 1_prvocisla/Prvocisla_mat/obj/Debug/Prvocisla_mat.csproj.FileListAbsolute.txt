@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/Prvocisla_mat/Prvocisla_mat/bin/Debug/Prvocisla_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/Prvocisla_mat/Prvocisla_mat/bin/Debug/Prvocisla_mat.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/Prvocisla_mat/Prvocisla_mat/obj/Debug/Prvocisla_mat.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/Prvocisla_mat/Prvocisla_mat/obj/Debug/Prvocisla_mat.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/Prvocisla_mat/Prvocisla_mat/obj/Debug/Prvocisla_mat.exe
+/home/kvothe/Dropbox/Projekty/Maturita/Prvocisla_mat/Prvocisla_mat/obj/Debug/Prvocisla_mat.pdb

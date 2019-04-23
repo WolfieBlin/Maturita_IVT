@@ -1,0 +1,6 @@
+/home/kvothe/Dropbox/Projekty/Maturita/Narozeniny_mat6/Narozeniny_mat6/bin/Debug/Narozeniny_mat6.exe
+/home/kvothe/Dropbox/Projekty/Maturita/Narozeniny_mat6/Narozeniny_mat6/bin/Debug/Narozeniny_mat6.pdb
+/home/kvothe/Dropbox/Projekty/Maturita/Narozeniny_mat6/Narozeniny_mat6/obj/Debug/Narozeniny_mat6.csprojAssemblyReference.cache
+/home/kvothe/Dropbox/Projekty/Maturita/Narozeniny_mat6/Narozeniny_mat6/obj/Debug/Narozeniny_mat6.csproj.CoreCompileInputs.cache
+/home/kvothe/Dropbox/Projekty/Maturita/Narozeniny_mat6/Narozeniny_mat6/obj/Debug/Narozeniny_mat6.exe
+/home/kvothe/Dropbox/Projekty/Maturita/Narozeniny_mat6/Narozeniny_mat6/obj/Debug/Narozeniny_mat6.pdb
