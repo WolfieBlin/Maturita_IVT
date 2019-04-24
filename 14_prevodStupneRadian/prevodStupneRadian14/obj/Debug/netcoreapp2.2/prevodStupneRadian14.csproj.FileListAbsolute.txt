@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\bin\Debug\netcoreapp2.2\prevodStupneRadian14.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\bin\Debug\netcoreapp2.2\prevodStupneRadian14.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\bin\Debug\netcoreapp2.2\prevodStupneRadian14.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\bin\Debug\netcoreapp2.2\prevodStupneRadian14.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\bin\Debug\netcoreapp2.2\prevodStupneRadian14.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\obj\Debug\netcoreapp2.2\prevodStupneRadian14.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\obj\Debug\netcoreapp2.2\prevodStupneRadian14.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\obj\Debug\netcoreapp2.2\prevodStupneRadian14.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\obj\Debug\netcoreapp2.2\prevodStupneRadian14.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\obj\Debug\netcoreapp2.2\prevodStupneRadian14.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodStupneRadian14\prevodStupneRadian14\obj\Debug\netcoreapp2.2\prevodStupneRadian14.pdb

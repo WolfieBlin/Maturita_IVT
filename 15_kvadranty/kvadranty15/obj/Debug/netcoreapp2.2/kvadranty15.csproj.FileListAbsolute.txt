@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\bin\Debug\netcoreapp2.2\kvadranty15.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\bin\Debug\netcoreapp2.2\kvadranty15.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\bin\Debug\netcoreapp2.2\kvadranty15.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\bin\Debug\netcoreapp2.2\kvadranty15.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\bin\Debug\netcoreapp2.2\kvadranty15.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\obj\Debug\netcoreapp2.2\kvadranty15.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\obj\Debug\netcoreapp2.2\kvadranty15.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\obj\Debug\netcoreapp2.2\kvadranty15.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\obj\Debug\netcoreapp2.2\kvadranty15.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\obj\Debug\netcoreapp2.2\kvadranty15.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\kvadranty15\kvadranty15\obj\Debug\netcoreapp2.2\kvadranty15.pdb

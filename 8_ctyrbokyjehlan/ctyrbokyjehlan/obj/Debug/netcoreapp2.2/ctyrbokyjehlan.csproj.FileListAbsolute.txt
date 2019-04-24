@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\bin\Debug\netcoreapp2.2\ctyrbokyjehlan.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\bin\Debug\netcoreapp2.2\ctyrbokyjehlan.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\bin\Debug\netcoreapp2.2\ctyrbokyjehlan.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\bin\Debug\netcoreapp2.2\ctyrbokyjehlan.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\bin\Debug\netcoreapp2.2\ctyrbokyjehlan.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\obj\Debug\netcoreapp2.2\ctyrbokyjehlan.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\obj\Debug\netcoreapp2.2\ctyrbokyjehlan.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\obj\Debug\netcoreapp2.2\ctyrbokyjehlan.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\obj\Debug\netcoreapp2.2\ctyrbokyjehlan.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\obj\Debug\netcoreapp2.2\ctyrbokyjehlan.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\ctyrbokyjehlan\ctyrbokyjehlan\obj\Debug\netcoreapp2.2\ctyrbokyjehlan.pdb

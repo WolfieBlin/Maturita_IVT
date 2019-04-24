@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\bin\Debug\netcoreapp2.2\prevodCasu9.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\bin\Debug\netcoreapp2.2\prevodCasu9.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\bin\Debug\netcoreapp2.2\prevodCasu9.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\bin\Debug\netcoreapp2.2\prevodCasu9.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\bin\Debug\netcoreapp2.2\prevodCasu9.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\obj\Debug\netcoreapp2.2\prevodCasu9.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\obj\Debug\netcoreapp2.2\prevodCasu9.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\obj\Debug\netcoreapp2.2\prevodCasu9.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\obj\Debug\netcoreapp2.2\prevodCasu9.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\obj\Debug\netcoreapp2.2\prevodCasu9.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9\prevodCasu9\obj\Debug\netcoreapp2.2\prevodCasu9.pdb

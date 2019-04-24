@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\bin\Debug\netcoreapp2.2\vzdalenostDvouBodu20.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\bin\Debug\netcoreapp2.2\vzdalenostDvouBodu20.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\bin\Debug\netcoreapp2.2\vzdalenostDvouBodu20.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\bin\Debug\netcoreapp2.2\vzdalenostDvouBodu20.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\bin\Debug\netcoreapp2.2\vzdalenostDvouBodu20.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\obj\Debug\netcoreapp2.2\vzdalenostDvouBodu20.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\obj\Debug\netcoreapp2.2\vzdalenostDvouBodu20.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\obj\Debug\netcoreapp2.2\vzdalenostDvouBodu20.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\obj\Debug\netcoreapp2.2\vzdalenostDvouBodu20.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\obj\Debug\netcoreapp2.2\vzdalenostDvouBodu20.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\vzdalenostDvouBodu20\vzdalenostDvouBodu20\obj\Debug\netcoreapp2.2\vzdalenostDvouBodu20.pdb

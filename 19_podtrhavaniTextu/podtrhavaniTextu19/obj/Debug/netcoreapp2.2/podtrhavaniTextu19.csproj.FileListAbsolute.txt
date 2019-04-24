@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\bin\Debug\netcoreapp2.2\podtrhavaniTextu19.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\bin\Debug\netcoreapp2.2\podtrhavaniTextu19.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\bin\Debug\netcoreapp2.2\podtrhavaniTextu19.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\bin\Debug\netcoreapp2.2\podtrhavaniTextu19.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\bin\Debug\netcoreapp2.2\podtrhavaniTextu19.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\obj\Debug\netcoreapp2.2\podtrhavaniTextu19.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\obj\Debug\netcoreapp2.2\podtrhavaniTextu19.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\obj\Debug\netcoreapp2.2\podtrhavaniTextu19.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\obj\Debug\netcoreapp2.2\podtrhavaniTextu19.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\obj\Debug\netcoreapp2.2\podtrhavaniTextu19.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\podtrhavaniTextu19\podtrhavaniTextu19\obj\Debug\netcoreapp2.2\podtrhavaniTextu19.pdb

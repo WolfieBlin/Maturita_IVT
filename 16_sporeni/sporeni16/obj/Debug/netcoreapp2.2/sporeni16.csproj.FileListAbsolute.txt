@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\bin\Debug\netcoreapp2.2\sporeni16.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\bin\Debug\netcoreapp2.2\sporeni16.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\bin\Debug\netcoreapp2.2\sporeni16.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\bin\Debug\netcoreapp2.2\sporeni16.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\bin\Debug\netcoreapp2.2\sporeni16.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\obj\Debug\netcoreapp2.2\sporeni16.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\obj\Debug\netcoreapp2.2\sporeni16.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\obj\Debug\netcoreapp2.2\sporeni16.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\obj\Debug\netcoreapp2.2\sporeni16.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\obj\Debug\netcoreapp2.2\sporeni16.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\sporeni16\sporeni16\obj\Debug\netcoreapp2.2\sporeni16.pdb

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43dec0c9-f0c8-4daa-83ba-06dc0f87e31a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Prvocisla_mat/obj/Debug/Prvocisla_mat.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Prvocisla_mat/obj/Debug/Prvocisla_mat.csprojAssemblyReference.cache" afterDir="false" />
+    <list default="true" id="97603b7f-a364-4789-984e-0e1b6478a7aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../kvadranty15/.idea/.idea.kvadranty15/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kvadranty15/.idea/.idea.kvadranty15/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kvadranty15/.idea/.idea.kvadranty15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kvadranty15/.idea/.idea.kvadranty15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.sporeni16/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_prvocisla/.idea/.idea.prvocisla_mat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1_prvocisla/.idea/.idea.prvocisla_mat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_prvocisla/Prvocisla_mat/obj/Debug/Prvocisla_mat.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../1_prvocisla/Prvocisla_mat/obj/Debug/Prvocisla_mat.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +17,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Prvocisla_mat/Program.cs">
+        <entry file="file://$PROJECT_DIR$/sporeni16/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="481">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <marker date="1556132277032" expanded="true" signature="34:1291" ph="{...}" />
+                <marker date="1556132277032" expanded="true" signature="54:1289" ph="{...}" />
+                <marker date="1556132277032" expanded="true" signature="100:724" ph="{...}" />
+                <marker date="1556132277032" expanded="true" signature="823:1283" ph="{...}" />
+                <marker date="1556132277032" expanded="true" signature="910:1088" ph="{...}" />
+                <marker date="1556132277032" expanded="true" signature="1105:1210" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,19 +41,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Prvocisla_mat/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sporeni16/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Prvocisla_mat/Program.cs" />
+        <option value="$PROJECT_DIR$/sporeni16/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="33" />
-    <option name="width" value="1920" />
-    <option name="height" value="1047" />
+    <option name="x" value="175" />
+    <option name="y" value="-20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -47,11 +62,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -75,19 +90,24 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Prvocisla_mat/bin/Debug/Prvocisla_mat.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/sporeni16/bin/Debug/netcoreapp2.2/sporeni16.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prvocisla_mat/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sporeni16" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Prvocisla_mat/Prvocisla_mat.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/sporeni16/sporeni16.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -98,19 +118,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="43dec0c9-f0c8-4daa-83ba-06dc0f87e31a" name="Default Changelist" comment="" />
-      <created>1553943219195</created>
+      <changelist id="97603b7f-a364-4789-984e-0e1b6478a7aa" name="Default Changelist" comment="" />
+      <created>1556131172134</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553943219195</updated>
-      <workItem from="1553943220324" duration="3334000" />
-      <workItem from="1554101771651" duration="2924000" />
-      <workItem from="1556129580268" duration="4000" />
+      <updated>1556131172134</updated>
+      <workItem from="1556131173466" duration="1114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6262000" />
+    <option name="totallyTimeSpent" value="1114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -125,40 +143,40 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25704697" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42384106" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955848" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.3289183" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Unit Tests Coverage" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -171,10 +189,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prvocisla_mat/Program.cs">
+    <entry file="file://$PROJECT_DIR$/sporeni16/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="481">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <marker date="1556132277032" expanded="true" signature="34:1291" ph="{...}" />
+            <marker date="1556132277032" expanded="true" signature="54:1289" ph="{...}" />
+            <marker date="1556132277032" expanded="true" signature="100:724" ph="{...}" />
+            <marker date="1556132277032" expanded="true" signature="823:1283" ph="{...}" />
+            <marker date="1556132277032" expanded="true" signature="910:1088" ph="{...}" />
+            <marker date="1556132277032" expanded="true" signature="1105:1210" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

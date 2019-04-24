@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\ctyrbokyjehlan\\ctyrbokyjehlan\\ctyrbokyjehlan.csproj",
+    "projectName": "ctyrbokyjehlan",
+    "projectPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\ctyrbokyjehlan\\ctyrbokyjehlan\\ctyrbokyjehlan.csproj",
+    "outputPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\ctyrbokyjehlan\\ctyrbokyjehlan\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

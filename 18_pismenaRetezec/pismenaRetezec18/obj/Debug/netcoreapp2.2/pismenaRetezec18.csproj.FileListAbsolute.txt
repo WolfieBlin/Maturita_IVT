@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\bin\Debug\netcoreapp2.2\pismenaRetezec18.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\bin\Debug\netcoreapp2.2\pismenaRetezec18.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\bin\Debug\netcoreapp2.2\pismenaRetezec18.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\bin\Debug\netcoreapp2.2\pismenaRetezec18.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\bin\Debug\netcoreapp2.2\pismenaRetezec18.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\obj\Debug\netcoreapp2.2\pismenaRetezec18.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\obj\Debug\netcoreapp2.2\pismenaRetezec18.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\obj\Debug\netcoreapp2.2\pismenaRetezec18.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\obj\Debug\netcoreapp2.2\pismenaRetezec18.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\obj\Debug\netcoreapp2.2\pismenaRetezec18.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\pismenaRetezec18\pismenaRetezec18\obj\Debug\netcoreapp2.2\pismenaRetezec18.pdb

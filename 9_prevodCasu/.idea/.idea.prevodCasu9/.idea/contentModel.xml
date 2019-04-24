@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ufon2\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ufon2\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_prevodCasu9.-1000164417.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ufon2\Documents\Maturita\+++tabulky\prevodCasu9" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="prevodCasu9" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="prevodCasu9.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="prevodCasu9.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="prevodCasu9.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
