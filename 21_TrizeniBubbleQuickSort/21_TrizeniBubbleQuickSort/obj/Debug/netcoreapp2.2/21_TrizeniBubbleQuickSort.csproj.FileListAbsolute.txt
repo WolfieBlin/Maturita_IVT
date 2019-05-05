@@ -1,0 +1,10 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\bin\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\bin\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\bin\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\bin\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\bin\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\obj\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\obj\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\obj\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\obj\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\21_TrizeniBubbleQuickSort\21_TrizeniBubbleQuickSort\obj\Debug\netcoreapp2.2\21_TrizeniBubbleQuickSort.pdb
