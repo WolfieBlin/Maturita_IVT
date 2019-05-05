@@ -16,7 +16,7 @@ namespace prevodStupneRadian14
         {
             var radiany = stupne / 180 * Math.PI;
 
-            return Math.Round(radiany, 3);
+            return radiany;
         }
     }
 }
