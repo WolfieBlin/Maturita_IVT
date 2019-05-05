@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\podtrhavaniTextu19\\podtrhavaniTextu19\\podtrhavaniTextu19.csproj",
+    "projectUniqueName": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\19_podtrhavaniTextu\\podtrhavaniTextu19\\podtrhavaniTextu19.csproj",
     "projectName": "podtrhavaniTextu19",
-    "projectPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\podtrhavaniTextu19\\podtrhavaniTextu19\\podtrhavaniTextu19.csproj",
-    "outputPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\podtrhavaniTextu19\\podtrhavaniTextu19\\obj\\",
+    "projectPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\19_podtrhavaniTextu\\podtrhavaniTextu19\\podtrhavaniTextu19.csproj",
+    "outputPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\19_podtrhavaniTextu\\podtrhavaniTextu19\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
