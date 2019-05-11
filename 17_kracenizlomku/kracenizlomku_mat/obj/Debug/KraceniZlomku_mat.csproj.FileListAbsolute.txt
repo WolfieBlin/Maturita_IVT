@@ -4,3 +4,9 @@
 /home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.csproj.CoreCompileInputs.cache
 /home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.exe
 /home/kvothe/Dropbox/Projekty/Maturita/KraceniZlomku_mat/KraceniZlomku_mat/obj/Debug/KraceniZlomku_mat.pdb
+c:\Users\ufon2\Documents\Maturita\+++tabulky\17_kracenizlomku\kracenizlomku_mat\bin\Debug\KraceniZlomku_mat.exe
+c:\Users\ufon2\Documents\Maturita\+++tabulky\17_kracenizlomku\kracenizlomku_mat\bin\Debug\KraceniZlomku_mat.pdb
+c:\Users\ufon2\Documents\Maturita\+++tabulky\17_kracenizlomku\kracenizlomku_mat\obj\Debug\KraceniZlomku_mat.csprojAssemblyReference.cache
+c:\Users\ufon2\Documents\Maturita\+++tabulky\17_kracenizlomku\kracenizlomku_mat\obj\Debug\KraceniZlomku_mat.csproj.CoreCompileInputs.cache
+c:\Users\ufon2\Documents\Maturita\+++tabulky\17_kracenizlomku\kracenizlomku_mat\obj\Debug\KraceniZlomku_mat.exe
+c:\Users\ufon2\Documents\Maturita\+++tabulky\17_kracenizlomku\kracenizlomku_mat\obj\Debug\KraceniZlomku_mat.pdb

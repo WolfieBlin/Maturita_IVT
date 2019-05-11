@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\bin\Debug\netcoreapp2.2\fronta22.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\bin\Debug\netcoreapp2.2\fronta22.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\bin\Debug\netcoreapp2.2\fronta22.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\bin\Debug\netcoreapp2.2\fronta22.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\bin\Debug\netcoreapp2.2\fronta22.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\obj\Debug\netcoreapp2.2\fronta22.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\obj\Debug\netcoreapp2.2\fronta22.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\obj\Debug\netcoreapp2.2\fronta22.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\obj\Debug\netcoreapp2.2\fronta22.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\obj\Debug\netcoreapp2.2\fronta22.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\fronta22\fronta22\obj\Debug\netcoreapp2.2\fronta22.pdb

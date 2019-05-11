@@ -1,0 +1,11 @@
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\bin\Debug\netcoreapp2.2\zasobnik23.deps.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\bin\Debug\netcoreapp2.2\zasobnik23.runtimeconfig.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\bin\Debug\netcoreapp2.2\zasobnik23.runtimeconfig.dev.json
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\bin\Debug\netcoreapp2.2\zasobnik23.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\bin\Debug\netcoreapp2.2\zasobnik23.pdb
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\obj\Debug\netcoreapp2.2\zasobnik23.csprojAssemblyReference.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\obj\Debug\netcoreapp2.2\zasobnik23.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\obj\Debug\netcoreapp2.2\zasobnik23.AssemblyInfoInputs.cache
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\obj\Debug\netcoreapp2.2\zasobnik23.AssemblyInfo.cs
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\obj\Debug\netcoreapp2.2\zasobnik23.dll
+C:\Users\ufon2\Documents\Maturita\+++tabulky\zasobnik23\zasobnik23\obj\Debug\netcoreapp2.2\zasobnik23.pdb

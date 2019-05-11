@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="439c2b02-3204-4dd5-a593-fb74ce49fe88" name="Default Changelist" comment="" />
+    <list default="true" id="439c2b02-3204-4dd5-a593-fb74ce49fe88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.kracenizlomku_mat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/bin/Debug/n_taMocnina_mat11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/bin/Debug/n_taMocnina_mat11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/bin/Debug/n_taMocnina_mat11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/bin/Debug/n_taMocnina_mat11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n-taMocnina_mat11.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n-taMocnina_mat11.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n-taMocnina_mat11.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n-taMocnina_mat11.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n-taMocnina_mat11.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n-taMocnina_mat11.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n_taMocnina_mat11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n_taMocnina_mat11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n_taMocnina_mat11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../11_n-tamocnina/n-tamocnina_mat11/obj/Debug/n_taMocnina_mat11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/bin/Debug/netcoreapp2.2/kvadranty15.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/bin/Debug/netcoreapp2.2/kvadranty15.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/bin/Debug/netcoreapp2.2/kvadranty15.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/bin/Debug/netcoreapp2.2/kvadranty15.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/Debug/netcoreapp2.2/kvadranty15.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/kvadranty15.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/kvadranty15.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/kvadranty15.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/kvadranty15.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../15_kvadranty/kvadranty15/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/bin/Debug/netcoreapp2.2/sporeni16.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/bin/Debug/netcoreapp2.2/sporeni16.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/bin/Debug/netcoreapp2.2/sporeni16.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/bin/Debug/netcoreapp2.2/sporeni16.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/Debug/netcoreapp2.2/sporeni16.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/sporeni16.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/sporeni16.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/sporeni16.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../16_sporeni/sporeni16/obj/sporeni16.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.kracenizlomku_mat/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.kracenizlomku_mat/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.kracenizlomku_mat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.kracenizlomku_mat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/bin/Debug/KraceniZlomku_mat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/bin/Debug/KraceniZlomku_mat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/bin/Debug/KraceniZlomku_mat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/bin/Debug/KraceniZlomku_mat.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/kracenizlomku_mat/obj/Debug/KraceniZlomku_mat.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/.idea/.idea.podtrhavaniTextu19/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/.idea/.idea.podtrhavaniTextu19/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/.idea/.idea.podtrhavaniTextu19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/.idea/.idea.podtrhavaniTextu19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/bin/Debug/netcoreapp2.2/podtrhavaniTextu19.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/bin/Debug/netcoreapp2.2/podtrhavaniTextu19.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/bin/Debug/netcoreapp2.2/podtrhavaniTextu19.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/bin/Debug/netcoreapp2.2/podtrhavaniTextu19.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/Debug/netcoreapp2.2/podtrhavaniTextu19.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/Debug/netcoreapp2.2/podtrhavaniTextu19.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/Debug/netcoreapp2.2/podtrhavaniTextu19.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/Debug/netcoreapp2.2/podtrhavaniTextu19.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/Debug/netcoreapp2.2/podtrhavaniTextu19.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/Debug/netcoreapp2.2/podtrhavaniTextu19.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../19_podtrhavaniTextu/podtrhavaniTextu19/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/bin/Debug/netcoreapp2.2/prevodCasu9.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/bin/Debug/netcoreapp2.2/prevodCasu9.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/bin/Debug/netcoreapp2.2/prevodCasu9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/bin/Debug/netcoreapp2.2/prevodCasu9.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/Debug/netcoreapp2.2/prevodCasu9.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/prevodCasu9.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/prevodCasu9.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/prevodCasu9.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/prevodCasu9.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../9_prevodCasu/prevodCasu9/obj/project.assets.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,29 +62,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/KraceniZlomku_mat/Program.cs">
+        <entry file="file://$PROJECT_DIR$/kracenizlomku_mat/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="296">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
-                <marker date="1553943040442" expanded="true" signature="42:2465" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="71:532" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="124:517" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="564:2463" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="615:1572" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="714:848" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="878:1017" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="1067:1304" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="1321:1548" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="1631:1760" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="1824:2457" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="1868:1956" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="2003:2218" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="2043:2113" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="2134:2204" ph="{...}" />
-                <marker date="1553943040442" expanded="true" signature="2270:2408" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="42:2465" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="71:532" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="124:517" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="564:2463" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="615:1572" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="714:848" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="878:1017" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="1067:1304" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="1321:1548" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="1631:1760" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="1824:2457" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="1868:1956" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="2003:2218" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="2043:2113" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="2134:2204" ph="{...}" />
+                <marker date="1553939440000" expanded="true" signature="2270:2408" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,37 +92,37 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/KraceniZlomku_mat/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/kracenizlomku_mat/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/KraceniZlomku_mat/Program.cs" />
+        <option value="$PROJECT_DIR$/kracenizlomku_mat/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="34" />
-    <option name="width" value="960" />
-    <option name="height" value="1046" />
+    <option name="x" value="240" />
+    <option name="y" value="128" />
+    <option name="width" value="1440" />
+    <option name="height" value="773" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -117,11 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553940823190</updated>
       <workItem from="1553940824845" duration="2394000" />
+      <workItem from="1557572405119" duration="685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2394000" />
+    <option name="totallyTimeSpent" value="3079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -133,41 +187,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="34" width="1920" height="1046" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.102564104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.3289183" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32859176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32859176" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,27 +235,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KraceniZlomku_mat/Program.cs">
+    <entry file="file://$PROJECT_DIR$/kracenizlomku_mat/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="296">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
-            <marker date="1553943040442" expanded="true" signature="42:2465" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="71:532" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="124:517" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="564:2463" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="615:1572" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="714:848" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="878:1017" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="1067:1304" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="1321:1548" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="1631:1760" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="1824:2457" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="1868:1956" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="2003:2218" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="2043:2113" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="2134:2204" ph="{...}" />
-            <marker date="1553943040442" expanded="true" signature="2270:2408" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="42:2465" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="71:532" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="124:517" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="564:2463" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="615:1572" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="714:848" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="878:1017" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="1067:1304" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="1321:1548" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="1631:1760" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="1824:2457" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="1868:1956" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="2003:2218" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="2043:2113" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="2134:2204" ph="{...}" />
+            <marker date="1553939440000" expanded="true" signature="2270:2408" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\kvadranty15\\kvadranty15\\kvadranty15.csproj",
+      "projectUniqueName": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\15_kvadranty\\kvadranty15\\kvadranty15.csproj",
       "projectName": "kvadranty15",
-      "projectPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\kvadranty15\\kvadranty15\\kvadranty15.csproj",
+      "projectPath": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\15_kvadranty\\kvadranty15\\kvadranty15.csproj",
       "packagesPath": "C:\\Users\\ufon2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\kvadranty15\\kvadranty15\\obj\\",
+      "outputPath": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\15_kvadranty\\kvadranty15\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

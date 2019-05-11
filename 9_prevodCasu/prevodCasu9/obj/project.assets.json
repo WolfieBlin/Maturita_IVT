@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\prevodCasu9\\prevodCasu9\\prevodCasu9.csproj",
+      "projectUniqueName": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\9_prevodCasu\\prevodCasu9\\prevodCasu9.csproj",
       "projectName": "prevodCasu9",
-      "projectPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\prevodCasu9\\prevodCasu9\\prevodCasu9.csproj",
+      "projectPath": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\9_prevodCasu\\prevodCasu9\\prevodCasu9.csproj",
       "packagesPath": "C:\\Users\\ufon2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\prevodCasu9\\prevodCasu9\\obj\\",
+      "outputPath": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\9_prevodCasu\\prevodCasu9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

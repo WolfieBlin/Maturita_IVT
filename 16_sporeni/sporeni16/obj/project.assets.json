@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\sporeni16\\sporeni16\\sporeni16.csproj",
+      "projectUniqueName": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\16_sporeni\\sporeni16\\sporeni16.csproj",
       "projectName": "sporeni16",
-      "projectPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\sporeni16\\sporeni16\\sporeni16.csproj",
+      "projectPath": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\16_sporeni\\sporeni16\\sporeni16.csproj",
       "packagesPath": "C:\\Users\\ufon2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\sporeni16\\sporeni16\\obj\\",
+      "outputPath": "c:\\Users\\ufon2\\Documents\\Maturita\\+++tabulky\\16_sporeni\\sporeni16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
