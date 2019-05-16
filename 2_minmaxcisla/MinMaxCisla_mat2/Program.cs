@@ -10,8 +10,7 @@ namespace MinMaxCisla_mat2
             
             var pocet = Convert.ToInt32(Console.ReadLine());
             var cisla = new int[pocet];
-            var min = cisla[0];
-            var max = cisla[0];
+            
 
             Console.WriteLine("Postupně zadejte {0} čísel", pocet);
             
@@ -19,7 +18,10 @@ namespace MinMaxCisla_mat2
             {
                 cisla[i] = Convert.ToInt32(Console.ReadLine());
             }
-            
+
+            var min = cisla[0];
+            var max = cisla[0];
+
             foreach (var cislo in cisla)
             {
                 if (cislo > max)
